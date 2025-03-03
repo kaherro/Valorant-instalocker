@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\user\Desktop\instalocker\MyForm.h(31,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\instalocker\MyForm.h(31,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\instalocker\MyForm.h(37,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\instalocker\MyForm.h(37,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  instalocker.vcxproj -> C:\Users\user\Desktop\instalocker\Debug\instalocker.exe

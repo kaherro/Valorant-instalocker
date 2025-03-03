@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\instalocker\Debug\instalocker.vcxprojAssemblyReference.cache
+C:\Users\user\Desktop\instalocker\Debug\instalocker.MyForm.resources
+C:\Users\user\Desktop\instalocker\Debug\instalocker.vcxproj.GenerateResource.cache
+C:\Users\user\Desktop\instalocker\Debug\instalocker.exe
+C:\Users\user\Desktop\instalocker\Debug\instalocker.pdb
